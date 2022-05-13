@@ -1,0 +1,2 @@
+login= Олег
+password= 123456
